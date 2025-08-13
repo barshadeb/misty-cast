@@ -1,8 +1,8 @@
-App Overview
+# App Overview
 MistyCast is a user-friendly weather application that gives a complete picture of the weather for any location. It's designed to be simple and intuitive, providing everything from real-time conditions to a long-range forecast. It can be easily switched between Celsius and Fahrenheit, save your favorite locations for quick access, and even get historical weather insights.
 
-Key Features
-This app provides a comprehensive set of features.
+# Key Features
+### This app provides a comprehensive set of features.
 
 - Current Conditions: Displays real-time weather details, including the current temperature, "feels like" temperature, humidity, wind speed and direction, atmospheric pressure, and visibility.
 - Forecasts: Offers both an hourly forecast for the next 24 hours and a daily forecast for up to 14 days.
@@ -13,10 +13,10 @@ This app provides a comprehensive set of features.
 - Additional Data: Displays sunrise and sunset times, the Air Quality Index (AQI), and a dedicated section for any active weather alerts.
 - Historical Averages: The application can fetch historical weather data for the last five years and compute averages for the current date, which can then be compared to the present temperature.
 
-Customizable Settings
+# Customizable Settings
 The application features several user-configurable options. Locations can be searched, saved as "frequent spots," and re-selected with a single click. The temperature units can be toggled between metric (°C, km/h) and imperial (°F, mph).
 
-Technical Implementation
+# Technical Implementation
 The application is a single-page website that relies on a combination of web technologies.
 
 - Structure with HTML: The layout, including the search bar, weather cards, and forecast sections, is defined using HTML (HyperText Markup Language).
